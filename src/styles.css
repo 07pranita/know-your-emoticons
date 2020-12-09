@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Kalam&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0rem;
+}
+
+.navigation {
+  background-color: #818cf8;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+h1 {
+  font-family: "Kalam", cursive;
+  padding: 1.5rem;
+  font-size: 3rem;
+}
+
+input {
+  margin: 2rem;
+  padding: 1rem;
+  width: 50%;
+  font-size: 1.5rem;
+  font-family: "Kalam", cursive;
+}
+
+.txt {
+  font-size: 1.5rem;
+  min-width: 20%;
+  padding: 1rem;
+  margin: 0.5rem;
+  box-shadow: 1px 1px 10px 3px rgb(224, 224, 224);
+  border-radius: 0.2rem;
+  text-align: center;
+}
+
+.emoji {
+  margin: 2rem;
+  padding: 1rem;
+  font-size: 2.5rem;
+}
+
+span {
+  font-size: 2rem;
+  margin: 1rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
